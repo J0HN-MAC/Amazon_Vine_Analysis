@@ -7,10 +7,10 @@ Amazon review data from a specific category of products (Outdoors) was analyzed 
 The data was filtered to only include reviews in which the combined votes (both helpful and not) totaled at least 20, and at least 50% of those votes were helpful. Below are the first 20 rows of the filtered DataFrame.
 ![This is an image](Images/filtered_table.png)
 
-**Analysis of filtered reviews from Vine members**
+**_Analysis of filtered reviews from Vine members..._**
 ![This is an image](Images/paid_analysis.png)
 
-**Analysis of filtered reviews non-Vine customers**
+**_Analysis of filtered reviews non-Vine customers..._**
 ![This is an image](Images/unpaid_analysis.png)
 
 - There were 107 Vine reviews and 39,850 non-Vine reviews.
